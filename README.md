@@ -44,3 +44,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=AntaripChat&pretty=true)](https://visitcount.itsvg.in)
 <!---->
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
