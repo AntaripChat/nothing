@@ -27,4 +27,4 @@
 [![](https://visitcount.itsvg.in/api?id=AntaripChat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=AntaripChatIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AntaripChat&pretty=true)](https://visitcount.itsvg.in)
