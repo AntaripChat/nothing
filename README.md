@@ -2,10 +2,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # 💫 About Me:
 <h2 align="center">Hi 👋! My name is Antarip Chatterjeeand I'm a Software developer, from India</h2>
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
-🌱 I’m currently learning Javascript,Backend<br> <br>🔗 My Replit Profile https://replit.com/@antarip
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antaripchat&label=Profile%20views&color=0e75b6&style=flat" alt="antaripchat" /> </p>
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+
+🌱 I’m currently learning Javascript,Backend<br>🔗 My Replit Profile https://replit.com/@antarip
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chatterjee-antarip10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Antaripchatter) 
