@@ -2,7 +2,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # 💫 About Me:
 <h2 align="center">Hi 👋! My name is Antarip Chatterjeeand I'm a Software developer, from India</h2>
-🌱 I’m currently learning Javascript,Backend<br>📫 How to reach me antaripchatterjee17@gmail.com<br>🔗 My Replit Profile https://replit.com/@antarip
+🌱 I’m currently learning Javascript,Backend<br>📫 How to reach me **antaripchatterjee17@gmail.com**<br>🔗 My Replit Profile **https://replit.com/@antarip**
 
 
 ## 🌐 Socials:
