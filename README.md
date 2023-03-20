@@ -1,7 +1,3 @@
-
-
-
-
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Antarip Chatterjee</h1>
 <h3 align="center">A Student from India</h3>
@@ -13,21 +9,6 @@
 - 📫 How to reach me **antaripchatterjee17@gmail.com**
 - 🔗 My Replit Profile **https://replit.com/@antarip**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/chatterjee-antarip10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chatterjee-antarip10" height="30" width="40" /></a>
-<a href="https://twitter.com/Antaripchatter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Antaripchatter" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/antarip10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/antarip10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chatterjeeantar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chatterjeeantar1" height="30" width="40" /></a>
-<a href="https://leetcode.com/antarip10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/antarip10/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chatterjeeantarip1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chatterjeeantarip1234/saved-articles/" height="30" width="40" /></a>
-</p>
-
-
-<!--## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chatterjee-antarip10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Antaripchatter) 
-
-<h3 align="left">Connect with me:</h3>-->
 
 ## 🌐 Socials:
 <p align="center">
@@ -56,9 +37,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<!-- ---
 [![](https://visitcount.itsvg.in/api?id=AntaripChat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=AntaripChat&pretty=true)](https://visitcount.itsvg.in)
-<!---->
+<1--[![](https://visitcount.itsvg.in/api?id=AntaripChat&pretty=true)](https://visitcount.itsvg.in)-->
+<!----> -->
