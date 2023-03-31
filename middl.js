@@ -1,4 +1,4 @@
-const theatre = require('../model/theatre.model');
+const Theatre = require('../model/theatre.model');
 function validatetheatreReqBody(req, res, next){
     if(!req.body.name){
         return res.status(400).send({
@@ -18,7 +18,7 @@ function validatetheatreReqBody(req, res, next){
         })
     };
   
-    let city = await User.findOne({city:req.body.city});
+    let city = await Theatre.findOne({city:req.body.city});
     
     if(city != null){
         return res.status(400).send({message:"city already exists"});
@@ -30,7 +30,7 @@ function validatetheatreReqBody(req, res, next){
             });
     
     };
-  let pin = await User.findOne({pin:req.body.pin});
+  let pin = await Theatre.findOne({pin:req.body.pin});
     
     if(pin != null){
         return res.status(400).send({message:"pin already exists"});
