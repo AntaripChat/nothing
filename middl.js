@@ -1,16 +1,17 @@
 const Theatre = require('../model/theatre.model');
 function validatetheatreReqBody(req, res, next){
+    
     if(!req.body.name){
         return res.status(400).send({
             msg: 'name field is missing in  creation'
         })
-    }
+    };
 
     if(!req.body.description){
         return res.status(400).send({
             msg: 'description field is missing in theatre creation'
         })
-    }
+    };
 
     if(!req.body.city){
         return res.status(400).send({
@@ -44,4 +45,4 @@ function validatetheatreReqBody(req, res, next){
 
 module.exports = {
     validatetheatreReqBody
-}
+};
